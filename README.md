@@ -20,3 +20,10 @@ The script operates on a simple principle:
 
 4. **Summary Generation:** The LLM's response is a concise, single-paragraph summary of the policy's potential impacts on key economic indicators.
 
+<h3>Usage</h3>
+
+1. **Download the file:** Save the provided code as economic_analyzer.py.
+
+2. **Install dependencies:** Make sure you have the requests library installed.
+
+3. **Run the script:** Execute the script from your terminal.
